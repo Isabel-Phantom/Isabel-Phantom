@@ -26,6 +26,6 @@ I specialize in developing optimized configurations designed to reduce unnecessa
 
 <p align="left">
   <a href="https://discord.gg/u2KCUUjnM">
-  <img src="./discord-banner.png" width="200" alt="Discord - @irisly_moon">
+  <img src="./Badge Discord @irisly_moon.png" width="200" alt="Discord - @irisly_moon">
 </p>
 ---
