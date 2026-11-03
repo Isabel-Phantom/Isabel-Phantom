@@ -25,7 +25,7 @@ I specialize in developing optimized configurations designed to reduce unnecessa
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://discord.gg/u2KCUUjnM">
+  <a href="blob:https://chatgpt.com/8a17c03a-0fd3-47b3-aeaa-3112a5679cc2">
     <img src="blob:https://chatgpt.com/8a17c03a-0fd3-47b3-aeaa-3112a5679cc2" />
 
 ---
