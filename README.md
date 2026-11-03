@@ -26,6 +26,6 @@ I specialize in developing optimized configurations designed to reduce unnecessa
 
 <p align="left">
   <a href="https://discord.gg/u2KCUUjnM">
-    <img src="https://discord.do/web/" />
+    <img src="blob:https://chatgpt.com/8a17c03a-0fd3-47b3-aeaa-3112a5679cc2" />
 
 ---
