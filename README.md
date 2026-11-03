@@ -26,6 +26,6 @@ I specialize in developing optimized configurations designed to reduce unnecessa
 
 <p align="left">
   <a href="blob:https://chatgpt.com/8a17c03a-0fd3-47b3-aeaa-3112a5679cc2">
-    <img src="blob:https://chatgpt.com/8a17c03a-0fd3-47b3-aeaa-3112a5679cc2" />
+    <img src="/__codex_browser_temporary_files__/85ce3e2b-8de3-4961-bbb0-02fe44f2a8b4/a_clean_dark_ui_style_banner_strip_inspired_by_di.png" />
 
 ---
