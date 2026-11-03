@@ -25,7 +25,7 @@ I specialize in developing optimized configurations designed to reduce unnecessa
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://discord.gg/u2KCUUjnM">
+  <a href="[https://discord.gg/u2KCUUjnM](https://discord.com/channels/@me/1554142941923115128)">
   <img src="./Badge Discord @irisly_moon.png" width="400" alt="Discord - @irisly_moon">
 </p>
 ---
